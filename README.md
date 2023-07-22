@@ -67,6 +67,7 @@ The models were trained on the training set and evaluated using various metrics 
 
 Our analysis revealed that the Random Forest model stands out as the most accurate in predicting bank failures, achieving an impressive 96.51% accuracy and 95.98% sensitivity. To maximize the predictive power, we propose utilizing an ensemble model that combines the strengths of all five models, yielding an accuracy of 96.29% and a sensitivity of 95.69%.
 
+
 This predictive tool can serve as an essential resource for regulators and banks to identify potential risks early and implement effective preventive measures. However, it is essential to complement this model with other contextual factors to make informed decisions and ensure comprehensive risk management.
 
 With this robust predictive model at hand, let's pave the way for a more resilient and stable financial future! 🏦🚀💪
